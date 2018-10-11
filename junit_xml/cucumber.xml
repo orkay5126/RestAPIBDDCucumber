@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="3.668347">
+<testcase classname="WebService for the book search" name="User calls the web service to GET the book details based on the ISBN" time="3.668347">
+<system-out><![CDATA[Given a book exists with the ISBN XXXXX.....................................passed
+When user retreives a book by ISNB XXXXX....................................passed
+Then Status code will be 200................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
